@@ -85,8 +85,8 @@
 
 ## TCP/IP Model
 
-- Internet Protocol Suite.
-- This model has 5 layers:
+- known as Internet Protocol Suite developed by ARPA.
+- This model is kind of similar to OSI but the layer has reduced ,has 5 layers:
                   - Application Layer
                   - Transport Layer
                   - Network Layer
